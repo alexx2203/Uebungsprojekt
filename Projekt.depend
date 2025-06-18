@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724403597 source:c:\users\aszyniec\onedrive - wbsedu\desktop\c\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"farben.h"
+	<time.h>
+
+1724310474 c:\users\aszyniec\onedrive - wbsedu\desktop\c\projekt\farben.h
+	<stdio.h>
+
